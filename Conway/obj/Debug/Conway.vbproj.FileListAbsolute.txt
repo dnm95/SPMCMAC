@@ -1,0 +1,24 @@
+C:\Users\Daniel\Desktop\vbnet_JuegoDeLaVida_Conway\Conway\bin\Debug\Conway.exe
+C:\Users\Daniel\Desktop\vbnet_JuegoDeLaVida_Conway\Conway\bin\Debug\Conway.pdb
+C:\Users\Daniel\Desktop\vbnet_JuegoDeLaVida_Conway\Conway\bin\Debug\Conway.xml
+C:\Users\Daniel\Desktop\vbnet_JuegoDeLaVida_Conway\Conway\obj\Debug\Conway.Form1.resources
+C:\Users\Daniel\Desktop\vbnet_JuegoDeLaVida_Conway\Conway\obj\Debug\Conway.Resources.resources
+C:\Users\Daniel\Desktop\vbnet_JuegoDeLaVida_Conway\Conway\obj\Debug\Conway.Grafiquito.resources
+C:\Users\Daniel\Desktop\vbnet_JuegoDeLaVida_Conway\Conway\obj\Debug\Conway.vbproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\vbnet_JuegoDeLaVida_Conway\Conway\obj\Debug\Conway.exe
+C:\Users\Daniel\Desktop\vbnet_JuegoDeLaVida_Conway\Conway\obj\Debug\Conway.xml
+C:\Users\Daniel\Desktop\vbnet_JuegoDeLaVida_Conway\Conway\obj\Debug\Conway.pdb
+C:\Users\Daniel\Desktop\vbnet_JuegoDeLaVida_Conway\Conway\obj\Debug\Conway.Form2.resources
+C:\Users\Daniel\Desktop\vbnet_JuegoDeLaVida_Conway\Conway\bin\Debug\Conway.exe.config
+C:\Users\Daniel\Desktop\Juego de la Vida\Conway\bin\Debug\Conway.exe.config
+C:\Users\Daniel\Desktop\Juego de la Vida\Conway\obj\Debug\Conway.exe
+C:\Users\Daniel\Desktop\Juego de la Vida\Conway\obj\Debug\Conway.xml
+C:\Users\Daniel\Desktop\Juego de la Vida\Conway\obj\Debug\Conway.pdb
+C:\Users\Daniel\Desktop\Juego de la Vida\Conway\bin\Debug\Conway.exe
+C:\Users\Daniel\Desktop\Juego de la Vida\Conway\bin\Debug\Conway.pdb
+C:\Users\Daniel\Desktop\Juego de la Vida\Conway\bin\Debug\Conway.xml
+C:\Users\Daniel\Desktop\Juego de la Vida\Conway\obj\Debug\Conway.Form1.resources
+C:\Users\Daniel\Desktop\Juego de la Vida\Conway\obj\Debug\Conway.Form2.resources
+C:\Users\Daniel\Desktop\Juego de la Vida\Conway\obj\Debug\Conway.Resources.resources
+C:\Users\Daniel\Desktop\Juego de la Vida\Conway\obj\Debug\Conway.Grafiquito.resources
+C:\Users\Daniel\Desktop\Juego de la Vida\Conway\obj\Debug\Conway.vbproj.GenerateResource.Cache

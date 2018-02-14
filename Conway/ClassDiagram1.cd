@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="JuegoDeLaVida.Principal">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <Members>
+      <Field Name="btnClear" Hidden="true" />
+      <Method Name="btnClear_Click" Hidden="true" />
+      <Field Name="btnGo" Hidden="true" />
+      <Method Name="btnGo_Click" Hidden="true" />
+      <Field Name="btnRandom" Hidden="true" />
+      <Method Name="btnRandom_Click" Hidden="true" />
+      <Field Name="btnRedim" Hidden="true" />
+      <Method Name="btnRedim_Click" Hidden="true" />
+      <Field Name="CheckBox1" Hidden="true" />
+      <Field Name="cmbAlgoritmo" Hidden="true" />
+      <Method Name="cmbAlgoritmo_SelectedIndexChanged" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Method Name="CStatus" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="Form1_FormClosed" Hidden="true" />
+      <Field Name="Grafiquito1" Hidden="true" />
+      <Field Name="Label2" Hidden="true" />
+      <Field Name="NumericUpDown2" Hidden="true" />
+      <Field Name="Panel1" Hidden="true" />
+      <Field Name="StatusLabel1" Hidden="true" />
+      <Field Name="StatusStrip1" Hidden="true" />
+      <Field Name="TableLayoutPanel1" Hidden="true" />
+      <Field Name="ToolTip1" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AQEAJQQAcCCAIABAgACAVAASAAAEIAQhCAYBAQAMAAA=</HashCode>
+      <FileName>Principal.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JuegoDeLaVida.Estadisticas">
+    <Position X="2.75" Y="0.5" Width="1.75" />
+    <Members>
+      <Field Name="btnCalcMedia" Hidden="true" />
+      <Method Name="btnCalcMedia_Click" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Field Name="Label1" Hidden="true" />
+      <Field Name="txtMedia" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAEAIAAECAAoAAAAACAAAACAAIAAAAAAAIAAAAEAAI=</HashCode>
+      <FileName>Estadisticas.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JuegoDeLaVida.Modelos">
+    <Position X="5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>ABAIAACAAAgAAAAQAAAAKAAABAAgQBAIAAAAAIACAAA=</HashCode>
+      <FileName>Modelos.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JuegoDeLaVida.GraficaMatriz">
+    <Position X="7" Y="0.5" Width="2" />
+    <Members>
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="PB" Hidden="true" />
+      <Method Name="PB_SizeChanged" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAACAAEAAAAACACACCAAAgBAAAIgAAAAABAAA=</HashCode>
+      <FileName>GraficaMatriz.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

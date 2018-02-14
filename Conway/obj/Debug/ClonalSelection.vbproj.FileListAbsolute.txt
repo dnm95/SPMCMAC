@@ -1,0 +1,78 @@
+C:\Users\dnm_s\Desktop\ESCOM\TT\TT2\Juego de la Vida\Conway\obj\Debug\ClonalSelection.vbprojResolveAssemblyReference.cache
+C:\Users\dnm_s\Desktop\ESCOM\TT\TT2\Juego de la Vida\Conway\obj\Debug\ClonalSelection.vbproj.GenerateResource.Cache
+C:\Users\dnm_s\Desktop\ESCOM\TT\TT2\Juego de la Vida\Conway\bin\Debug\ClonalSelection.exe.config
+C:\Users\dnm_s\Desktop\ESCOM\TT\TT2\Juego de la Vida\Conway\obj\Debug\ClonalSelection.AboutBox.resources
+C:\Users\dnm_s\Desktop\ESCOM\TT\TT2\Juego de la Vida\Conway\obj\Debug\ClonalSelection.Principal.resources
+C:\Users\dnm_s\Desktop\ESCOM\TT\TT2\Juego de la Vida\Conway\obj\Debug\ClonalSelection.Estadisticas.resources
+C:\Users\dnm_s\Desktop\ESCOM\TT\TT2\Juego de la Vida\Conway\obj\Debug\ClonalSelection.Resources.resources
+C:\Users\dnm_s\Desktop\ESCOM\TT\TT2\Juego de la Vida\Conway\obj\Debug\ClonalSelection.GraficaMatriz.resources
+C:\Users\dnm_s\Desktop\ESCOM\TT\TT2\Juego de la Vida\Conway\obj\Debug\ClonalSelection.prueba.resources
+C:\Users\dnm_s\Desktop\ESCOM\TT\TT2\Juego de la Vida\Conway\obj\Debug\ClonalSelection.xml
+C:\Users\dnm_s\Desktop\ESCOM\TT\TT2\Juego de la Vida\Conway\bin\Debug\ClonalSelection.exe
+C:\Users\dnm_s\Desktop\ESCOM\TT\TT2\Juego de la Vida\Conway\bin\Debug\ClonalSelection.pdb
+C:\Users\dnm_s\Desktop\ESCOM\TT\TT2\Juego de la Vida\Conway\bin\Debug\ClonalSelection.xml
+C:\Users\dnm_s\Desktop\ESCOM\TT\TT2\Juego de la Vida\Conway\obj\Debug\ClonalSelection.exe
+C:\Users\dnm_s\Desktop\ESCOM\TT\TT2\Juego de la Vida\Conway\obj\Debug\ClonalSelection.pdb
+C:\Users\dnm_s\Desktop\ESCOM\TT\TT2\ClonalSelection\Conway\bin\Debug\ClonalSelection.exe.config
+C:\Users\dnm_s\Desktop\ESCOM\TT\TT2\ClonalSelection\Conway\obj\Debug\ClonalSelection.exe
+C:\Users\dnm_s\Desktop\ESCOM\TT\TT2\ClonalSelection\Conway\obj\Debug\ClonalSelection.xml
+C:\Users\dnm_s\Desktop\ESCOM\TT\TT2\ClonalSelection\Conway\obj\Debug\ClonalSelection.pdb
+C:\Users\dnm_s\Desktop\ESCOM\TT\TT2\ClonalSelection\Conway\bin\Debug\ClonalSelection.exe
+C:\Users\dnm_s\Desktop\ESCOM\TT\TT2\ClonalSelection\Conway\bin\Debug\ClonalSelection.pdb
+C:\Users\dnm_s\Desktop\ESCOM\TT\TT2\ClonalSelection\Conway\bin\Debug\ClonalSelection.xml
+C:\Users\dnm_s\Desktop\ESCOM\TT\TT2\ClonalSelection\Conway\obj\Debug\ClonalSelection.Acerca.resources
+C:\Users\dnm_s\Desktop\ESCOM\TT\TT2\ClonalSelection\Conway\obj\Debug\ClonalSelection.Estadisticas.resources
+C:\Users\dnm_s\Desktop\ESCOM\TT\TT2\ClonalSelection\Conway\obj\Debug\ClonalSelection.Resources.resources
+C:\Users\dnm_s\Desktop\ESCOM\TT\TT2\ClonalSelection\Conway\obj\Debug\ClonalSelection.GraficaMatriz.resources
+C:\Users\dnm_s\Desktop\ESCOM\TT\TT2\ClonalSelection\Conway\obj\Debug\ClonalSelection.prueba.resources
+C:\Users\dnm_s\Desktop\ESCOM\TT\TT2\ClonalSelection\Conway\obj\Debug\ClonalSelection.vbproj.GenerateResource.Cache
+C:\Users\dnm_s\Desktop\ESCOM\TT\TT2\ClonalSelection\Conway\obj\Debug\ClonalSelection.vbprojResolveAssemblyReference.cache
+C:\Users\dnm_s\Desktop\ClonalSelection\Conway\bin\Debug\ClonalSelection.exe.config
+C:\Users\dnm_s\Desktop\ClonalSelection\Conway\obj\Debug\ClonalSelection.exe
+C:\Users\dnm_s\Desktop\ClonalSelection\Conway\obj\Debug\ClonalSelection.xml
+C:\Users\dnm_s\Desktop\ClonalSelection\Conway\obj\Debug\ClonalSelection.pdb
+C:\Users\dnm_s\Desktop\ClonalSelection\Conway\bin\Debug\ClonalSelection.exe
+C:\Users\dnm_s\Desktop\ClonalSelection\Conway\bin\Debug\ClonalSelection.pdb
+C:\Users\dnm_s\Desktop\ClonalSelection\Conway\bin\Debug\ClonalSelection.xml
+C:\Users\dnm_s\Desktop\ClonalSelection\Conway\obj\Debug\ClonalSelection.vbprojResolveAssemblyReference.cache
+C:\Users\dnm_s\Desktop\ClonalSelection\Conway\obj\Debug\ClonalSelection.Acerca.resources
+C:\Users\dnm_s\Desktop\ClonalSelection\Conway\obj\Debug\ClonalSelection.CondicionesIniciales.resources
+C:\Users\dnm_s\Desktop\ClonalSelection\Conway\obj\Debug\ClonalSelection.Estadisticas.resources
+C:\Users\dnm_s\Desktop\ClonalSelection\Conway\obj\Debug\ClonalSelection.Resources.resources
+C:\Users\dnm_s\Desktop\ClonalSelection\Conway\obj\Debug\ClonalSelection.GraficaMatriz.resources
+C:\Users\dnm_s\Desktop\ClonalSelection\Conway\obj\Debug\ClonalSelection.vbproj.GenerateResource.Cache
+C:\Users\dnm_s\Desktop\ClonalSelection\Conway\obj\Debug\ClonalSelection.Main.resources
+C:\Users\dnm_s\Desktop\ClonalSelection\Conway\obj\Debug\ClonalSelection.Matriz.resources
+C:\Users\dnm_s\Desktop\ClonalSelection_Nuevo\Conway\bin\Debug\ClonalSelection.exe.config
+C:\Users\dnm_s\Desktop\ClonalSelection_Nuevo\Conway\obj\Debug\ClonalSelection.exe
+C:\Users\dnm_s\Desktop\ClonalSelection_Nuevo\Conway\obj\Debug\ClonalSelection.xml
+C:\Users\dnm_s\Desktop\ClonalSelection_Nuevo\Conway\obj\Debug\ClonalSelection.pdb
+C:\Users\dnm_s\Desktop\ClonalSelection_Nuevo\Conway\bin\Debug\ClonalSelection.exe
+C:\Users\dnm_s\Desktop\ClonalSelection_Nuevo\Conway\bin\Debug\ClonalSelection.pdb
+C:\Users\dnm_s\Desktop\ClonalSelection_Nuevo\Conway\bin\Debug\ClonalSelection.xml
+C:\Users\dnm_s\Desktop\ClonalSelection_Nuevo\Conway\obj\Debug\ClonalSelection.vbprojResolveAssemblyReference.cache
+C:\Users\dnm_s\Desktop\ClonalSelection_Nuevo\Conway\obj\Debug\ClonalSelection.Acerca.resources
+C:\Users\dnm_s\Desktop\ClonalSelection_Nuevo\Conway\obj\Debug\ClonalSelection.CondicionesIniciales.resources
+C:\Users\dnm_s\Desktop\ClonalSelection_Nuevo\Conway\obj\Debug\ClonalSelection.Estadisticas.resources
+C:\Users\dnm_s\Desktop\ClonalSelection_Nuevo\Conway\obj\Debug\ClonalSelection.Main.resources
+C:\Users\dnm_s\Desktop\ClonalSelection_Nuevo\Conway\obj\Debug\ClonalSelection.Matriz.resources
+C:\Users\dnm_s\Desktop\ClonalSelection_Nuevo\Conway\obj\Debug\ClonalSelection.Resources.resources
+C:\Users\dnm_s\Desktop\ClonalSelection_Nuevo\Conway\obj\Debug\ClonalSelection.GraficaMatriz.resources
+C:\Users\dnm_s\Desktop\ClonalSelection_Nuevo\Conway\obj\Debug\ClonalSelection.vbproj.GenerateResource.Cache
+C:\Users\dnm_s\Desktop\ESCOM\TT\TT2\ClonalSelection_Nuevo\Conway\bin\Debug\ClonalSelection.exe.config
+C:\Users\dnm_s\Desktop\ESCOM\TT\TT2\ClonalSelection_Nuevo\Conway\obj\Debug\ClonalSelection.exe
+C:\Users\dnm_s\Desktop\ESCOM\TT\TT2\ClonalSelection_Nuevo\Conway\obj\Debug\ClonalSelection.xml
+C:\Users\dnm_s\Desktop\ESCOM\TT\TT2\ClonalSelection_Nuevo\Conway\obj\Debug\ClonalSelection.pdb
+C:\Users\dnm_s\Desktop\ESCOM\TT\TT2\ClonalSelection_Nuevo\Conway\bin\Debug\ClonalSelection.exe
+C:\Users\dnm_s\Desktop\ESCOM\TT\TT2\ClonalSelection_Nuevo\Conway\bin\Debug\ClonalSelection.pdb
+C:\Users\dnm_s\Desktop\ESCOM\TT\TT2\ClonalSelection_Nuevo\Conway\bin\Debug\ClonalSelection.xml
+C:\Users\dnm_s\Desktop\ESCOM\TT\TT2\ClonalSelection_Nuevo\Conway\obj\Debug\ClonalSelection.vbprojResolveAssemblyReference.cache
+C:\Users\dnm_s\Desktop\ESCOM\TT\TT2\ClonalSelection_Nuevo\Conway\obj\Debug\ClonalSelection.Acerca.resources
+C:\Users\dnm_s\Desktop\ESCOM\TT\TT2\ClonalSelection_Nuevo\Conway\obj\Debug\ClonalSelection.CondicionesIniciales.resources
+C:\Users\dnm_s\Desktop\ESCOM\TT\TT2\ClonalSelection_Nuevo\Conway\obj\Debug\ClonalSelection.Estadisticas.resources
+C:\Users\dnm_s\Desktop\ESCOM\TT\TT2\ClonalSelection_Nuevo\Conway\obj\Debug\ClonalSelection.Main.resources
+C:\Users\dnm_s\Desktop\ESCOM\TT\TT2\ClonalSelection_Nuevo\Conway\obj\Debug\ClonalSelection.Matriz.resources
+C:\Users\dnm_s\Desktop\ESCOM\TT\TT2\ClonalSelection_Nuevo\Conway\obj\Debug\ClonalSelection.Resources.resources
+C:\Users\dnm_s\Desktop\ESCOM\TT\TT2\ClonalSelection_Nuevo\Conway\obj\Debug\ClonalSelection.GraficaMatriz.resources
+C:\Users\dnm_s\Desktop\ESCOM\TT\TT2\ClonalSelection_Nuevo\Conway\obj\Debug\ClonalSelection.vbproj.GenerateResource.Cache
+C:\Users\dnm_s\Desktop\ESCOM\TT\TT2\ClonalSelection_Nuevo\Conway\obj\Debug\ClonalSelection.Cronometro.resources
